@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = riedel.philipp@gmx.net
+	name = Philipp Riedel
